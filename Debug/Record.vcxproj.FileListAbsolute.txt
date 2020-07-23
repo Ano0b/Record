@@ -1,0 +1,2 @@
+C:\Users\cui\source\repos\Record\Debug\Record.exe
+C:\Users\cui\source\repos\Record\Debug\Record.pdb

@@ -16,6 +16,9 @@
     <Filter Include="2020.7.22">
       <UniqueIdentifier>{12e41fd2-ab8b-47e4-8a10-8696e730df5f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="2020.7.23">
+      <UniqueIdentifier>{ca589ec3-f48c-452c-b2a3-417eca504992}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2020.7.22test1.c">

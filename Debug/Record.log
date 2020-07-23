@@ -1,0 +1,4 @@
+﻿  test5.c
+C:\Users\cui\source\repos\Record\test5.c(14,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\cui\source\repos\Record\test5.c(15,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Record.vcxproj -> C:\Users\cui\source\repos\Record\Debug\Record.exe
