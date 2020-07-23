@@ -18,19 +18,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test1.c">
+    <ClCompile Include="2020.7.22test1.c">
       <Filter>2020.7.22</Filter>
     </ClCompile>
-    <ClCompile Include="test2.c">
+    <ClCompile Include="2020.7.22test2.c">
       <Filter>2020.7.22</Filter>
     </ClCompile>
-    <ClCompile Include="test3.c">
+    <ClCompile Include="2020.7.22test3.c">
       <Filter>2020.7.22</Filter>
     </ClCompile>
-    <ClCompile Include="test4.c">
+    <ClCompile Include="2020.7.22test4.c">
       <Filter>2020.7.22</Filter>
     </ClCompile>
-    <ClCompile Include="test5.c">
+    <ClCompile Include="2020.7.22test5.c">
       <Filter>2020.7.22</Filter>
     </ClCompile>
   </ItemGroup>
